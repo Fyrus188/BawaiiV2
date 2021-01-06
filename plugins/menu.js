@@ -58,7 +58,7 @@ Bawaii
 Ip Server:play.lebahnetwork.xyz
 Port:(random)
 
-Donate://saweria.co/Bawai
+Donate:http://saweria.co/Bawai
 
 OwNer:
 *Wa.me/6281351658537*
